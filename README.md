@@ -59,5 +59,5 @@ Contributions are welcome. Please submit pull requests or open issues for discus
 
 ## Credits
 
-**Developer**: Nima Naseri - nerdnull@proton.me
-**Academic Supervisor**: Dr. Maryam Kheirabadi - maryam.abadi@gmail.com
+- Developer: Nima Naseri - nerdnull@proton.me
+- Academic Supervisor: Dr. Maryam Kheirabadi - maryam.abadi@gmail.com
